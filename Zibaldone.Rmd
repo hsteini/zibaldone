@@ -1,0 +1,55 @@
+---
+title: "Zibaldone"
+output:
+  html_document: default
+  word_document: default
+---
+
+#. [DEA]
+#. [Rmarkdown]
+
+
+
+
+### Rmarkdown
+Auszeichnungssprachen (Markup languages) trennen den Inhalt eines Textes von seiner Form und erleichtern somit die Konvertierung in andere Formate.
+
+http://etherpad.org/#download 
+
+
+Markdown ist eine vereinfachte Auszeichnungssprache.
+
+---
+# Das ist ein Kommentar
+...
+
+*hervorgehoben*
+** stark hervorgehoben**
+
+`Code`
+oder Text viermal eingerückt
+
+~~durchgestrichener Text~~
+
+Näheres erfährt man im Kapitel [Überschrift]
+
+mc^2^
+H~2~0
+
+<!-- HTML Kommentar --!>
+<!-- HTML Kommentar --!>
+
+Eine Liste
+
+#.  ein langer Text der geschwungen und verschachtelt ist 
+
+
+
+weitere infos findet man auf <http://www.example.com>
+
+### Überschrift
+
+
+
+
+### DEA
